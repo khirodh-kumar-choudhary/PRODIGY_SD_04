@@ -1,1 +1,1 @@
-# PRODIGY_SD_04
+A Java program implementing a Sudoku solver using the backtracking algorithm. The solver takes an unsolved 9x9 Sudoku grid as input and intelligently fills in the missing numbers, displaying the completed grid once solved. The project showcases algorithmic problem-solving skills and is designed for clarity and ease of use.
